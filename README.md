@@ -2,7 +2,7 @@
 
 I am in my second year of engineering studies in applied computer science at the University of Lodz, Faculty of Physics and Applied Informatics.
 
-##🌱 I’m currently learning Java and Spring framework.
+###🌱 I’m currently learning Java and Spring framework.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayiraa)](https://github.com/anuraghazra/github-readme-stats)
 
