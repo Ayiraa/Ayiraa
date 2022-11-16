@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Karolina 👋
+
+I am in my second year of engineering studies in applied computer science at the University of Lodz, Faculty of Physics and Applied Informatics.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Ayiraa/Ayiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
