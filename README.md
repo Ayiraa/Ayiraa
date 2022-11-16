@@ -2,8 +2,16 @@
 
 I am in my second year of engineering studies in applied computer science at the University of Lodz, Faculty of Physics and Applied Informatics.
 
-###🌱 I’m currently learning Java and Spring framework.
-
+## * 🌱 I’m currently learning:
+       * Java 
+       * Spring framework
+       * MySQL
+## * 🔭 I’m currently working on:
+       * Book management app allowing readers to create their own book lists/libraries. There is still a lot to do! :blush:
+## 📫 How to reach me:
+email: kkitta@spoko.pl
+       
+o
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayiraa)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
