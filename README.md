@@ -2,17 +2,18 @@
 
 I am in my second year of engineering studies in applied computer science at the University of Lodz, Faculty of Physics and Applied Informatics.
 
-## * 🌱 I’m currently learning:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayiraa)](https://github.com/Ayiraa/github-readme-stats)
+
+## 🌱 I’m currently learning:
        * Java 
        * Spring framework
        * MySQL
-## * 🔭 I’m currently working on:
-       * Book management app allowing readers to create their own book lists/libraries. There is still a lot to do! :blush:
+## 🔭 I’m currently working on:
+       * 📕 Book management app allowing readers to create their own book lists/libraries. There is still a lot to do! 😊
 ## 📫 How to reach me:
-email: kkitta@spoko.pl
+If you have any advice, would like to collaborate on a project or simply ask me a question send me an email at: kkitta@spoko.pl
        
-o
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayiraa)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Ayiraa/Ayiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
